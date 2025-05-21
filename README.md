@@ -1,3 +1,5 @@
+# community-insights-teams-app
+
 # 🧠 Community Insights Teams App
 
 This app ingests real developer feedback from GitHub and Stack Overflow, uses AI to extract pain points, and surfaces them via a Teams bot using Adaptive Cards.

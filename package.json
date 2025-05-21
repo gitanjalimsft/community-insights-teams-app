@@ -1,0 +1,18 @@
+{
+  "name": "community-insights-teams-app",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@microsoft/teams-ai": "^1.0.0",
+    "axios": "^1.6.0",
+    "botbuilder": "^4.21.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.18.2",
+    "loadash": "^1.0.0",
+    "openai": "^4.77.4"
+  }
+}
